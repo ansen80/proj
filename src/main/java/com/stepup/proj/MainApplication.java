@@ -7,10 +7,7 @@ public class MainApplication {
     }
 
     public static void doSomething() {
-        System.out.println(1);
-        System.out.println(7);
-        System.out.println(9);
-        System.out.println(9);
+        System.out.println("Hello world");
     }
 }
 
